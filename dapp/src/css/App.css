@@ -1,0 +1,1171 @@
+
+
+
+.App {
+  margin: 12px;
+  width: 100%;
+  height: 70px;
+  top: -5px;
+ 
+ 
+  
+  
+}
+
+.Fondo{
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+
+.AppHeader {
+  text-align: center;
+  top: 200px;
+  
+  color:  rgb(9, 94, 146);
+  font-size:x-large;
+ 
+  font-family:Georgia, 'Times New Roman', Times, serif;
+
+ 
+ 
+ 
+
+      
+
+  
+  
+}
+
+.App-link {
+  color: #fbb361;
+}
+
+.probar {
+  position: absolute;
+  
+  }
+
+
+nav ul {
+  position: absolute;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(240, 201, 201);
+ 
+  width: 160px;
+  height: 100%;
+  top:-5px;
+  left:2px
+ }
+
+nav ul li {
+  float: left;
+  
+}
+
+nav ul li a {
+  display: block;
+  color:  rgb(16, 127, 196);
+  
+  
+  text-align: center;
+  padding: 25px 20px;
+  text-decoration: none;
+  font-weight:640;
+  letter-spacing: .05em;
+    text-shadow: 
+       
+      10px 10px 10px rgba(0, 0, 0, 0.2);
+
+      
+
+ 
+  
+
+
+}
+
+.covid{
+  position: absolute;
+  
+  left: 1100px;
+  width: 450px;
+  height: 250px;
+  top: 110px;
+ 
+}
+
+
+
+.AppAlumnos{
+  position: absolute;
+  
+  right: 800px;
+}
+
+.AppAlumnodiv{
+  position: absolute;
+  
+  right: 800px;
+}
+
+
+.AppAsignaturadiv{
+  position: absolute;
+  
+  left: 600px;
+  top:200px;
+}
+
+
+.SeccionInfo{
+  position: absolute;
+  
+  left: 200px;
+  top:80px;
+}
+
+.SeccionInfoAsig{
+  position: relative;
+  
+  left: 450px;
+  top:80px;
+}
+
+.AppMisCosasdiv{
+  position: absolute;
+  
+  left: 600px;
+  top:375px;
+  
+}
+
+.AppMisCosasdiv1{
+  position: absolute;
+  
+  left: 450px;
+  top:780px;
+  
+}
+
+.AppMisCosasSection{
+  position: relative;
+  
+  right: -500px;
+  top:-700px;
+}
+
+
+
+
+.AppLaboratoriodiv{
+  position: absolute;
+  left: 200px;
+}
+
+
+
+
+.AppContacto{
+  position: absolute;
+  font-size: 23px;
+  
+  left: 200px;
+
+  top:150px;
+}
+
+.AppMisCosas{
+  position: absolute;
+  
+  left: 200px;
+
+  top:150px;
+  font-size: 20px;
+  color: rgb(9, 94, 146);;
+}
+
+.AppMisReservas{
+  
+  position: absolute;
+  height: 650px;
+  width: 900px;
+  
+  
+  right: -700px;
+
+  top:-20px;
+  
+
+}
+.AppMisReservas1{
+  overflow-y:scroll;
+ 
+  height: 520px;
+  width: 900px;
+  border: solid 2px rgb(155, 176, 192);
+          
+  white-space: pre-line;
+  text-overflow: ellipsis;
+
+}
+
+
+
+
+
+
+.AppAsignaturas{
+  position: absolute;
+  left: 300px;
+  color:  rgb(86, 20, 20);
+  font-size: 20px;
+  text-align: center;
+  padding: 25px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'Cabin Condensed', sans-serif;
+  letter-spacing: .05em;
+  
+    text-shadow: 
+      1px 1px 0px #dae4ec, 
+      5px 5px 5px rgba(0, 0, 0, 0.2);
+
+
+
+  
+
+}
+
+.AppAlumno{
+  position: relative;
+  left: -300px;
+  color: rgb(9, 94, 146);
+  top:-100px;
+  font-size: 20px;
+  
+
+  
+  
+  padding: 25px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: .05em;
+    text-shadow: 
+      1px 1px 0px #dae4ec, 
+      5px 5px 5px rgba(0, 0, 0, 0.2);
+
+
+
+  
+
+}
+
+
+
+
+.ReservarPuestosTitulo{
+ 
+
+  color:   rgb(9, 94, 146);
+  
+  font-size: 30px;
+  
+  text-align: center;
+  padding: 25px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: .05em;
+    text-shadow: 
+      1px 1px 0px #dae4ec, 
+      5px 5px 5px rgba(0, 0, 0, 0.2);
+
+
+
+  
+
+}
+.ReservarPuestosNota{
+ 
+
+font-size: 15px;
+
+
+
+  
+
+}
+
+.AppReservaPuestosSection{
+  position: absolute;
+  top:-50px;
+  left:100px;
+  
+  
+
+}
+
+.ListaAsignatura{
+  position: relative;
+  left: -280px;
+  color:  rgb(12, 6, 98);
+  top:-160px;
+  font-size: 23px;
+  
+  
+  
+  
+  padding: 25px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: .05em;
+    text-shadow: 
+      1px 1px 0px #dae4ec, 
+      5px 5px 5px rgba(0, 0, 0, 0.2);
+
+
+
+  
+
+}
+
+
+
+.Selectcalendar{
+  position: relative;
+  left: -280px;
+  color:  rgb(9, 94, 146);
+  top:-205px;
+  font-size: 20px;
+  color-scheme:rgb(0, 255, 30) ;
+
+
+
+}
+
+.SelectcalendarLabs{
+  position: relative;
+  left: -280px;
+  color:  rgb(9, 94, 146);
+  top:-160px;
+  font-size: 20px;
+
+
+}
+
+
+
+.SelectcalendarrlabS{
+  position: relative;
+  left: -280px;
+  color:  rgb(9, 94, 146);
+  top:-180px;
+  font-size: 20px;
+
+
+}
+
+.Selectcalendar1{
+  position: relative;
+  left: -280px;
+  color:  rgb(9, 94, 146);
+  top:-210px;
+  font-size: 20px;
+  
+  
+
+  
+
+}
+
+.diaselec{
+  position: relative;
+  left: -300px;
+  color:  rgb(12, 13, 13);
+  top:-220px;
+  font-size: 15px;
+  
+  
+  
+  padding: 25px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: .05em;
+    text-shadow: 
+      1px 1px 0px #dae4ec, 
+      5px 5px 5px rgba(0, 0, 0, 0.2);
+
+
+
+  
+
+}
+
+.diaselec1{
+  position: relative;
+  left: -300px;
+  color:  rgb(12, 13, 13);
+  top:-175px;
+  font-size: 15px;
+  
+  
+  
+  padding: 25px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: .05em;
+    text-shadow: 
+      1px 1px 0px #dae4ec, 
+      5px 5px 5px rgba(0, 0, 0, 0.2);
+
+
+
+  
+
+}
+ 
+
+.linkasig{
+  position: relative;
+  left: 300px;
+  top:180px;
+}
+
+.volverasig{
+  position: absolute;
+  left: -250px;
+  top:200px;
+}
+
+
+.volverLab{
+  position: absolute;
+  left: -400px;
+  top:540px;
+}
+.volverLab1{
+  position: absolute;
+  left: -400px;
+  top:300px;
+}
+
+.leyenda{
+  position: absolute;
+  left: -210px;
+  height: 90px;
+  width: 210px;
+  top:550px;
+  
+}
+.leyenda1{
+  position: absolute;
+  left: -210px;
+  height: 90px;
+  width: 210px;
+  top:220px;
+  
+}
+
+
+
+
+
+.AppLaboratorios{
+  position: absolute;
+  position: absolute;
+  left: 300px;
+  color:  rgb(86, 20, 20);
+  font-size: 20px;
+  
+  text-align: center;
+  padding: 25px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: .05em;
+    text-shadow: 
+      1px 1px 0px #dae4ec, 
+      5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+
+.AppReservaPuestos{
+  position: absolute;
+  left: 800px;
+  top:100px;
+}
+
+
+
+nav ul li a:hover {
+  background-color: rgb(76, 35, 60);
+  opacity: 0.6;
+  border-radius: 15px;
+  border: 3px double #0c110d
+}
+
+table { 
+  border-collapse: collapse; 
+ } 
+ table, th, td { 
+  border: 1px solid black; 
+ } 
+ th, td { 
+  padding: 5px; 
+  text-align: left; 
+ } 
+ tr:nth-child(even) { 
+  background-color: #f2f2f2; 
+ } 
+ th { 
+  background-color: #f2f2f2; 
+ }
+
+
+ .TextoAppVisual {
+  position: absolute;
+  top: 160px;
+  left: 200px;
+  }
+
+  .FechaConsulta {
+    position:absolute; 
+    bottom:300px; 
+    top: 300px;
+    right:40px;
+    }
+
+
+  .PanelHistorial {
+    position:absolute;
+    bottom:310px; 
+    left:400px;
+    }
+
+
+    .PanelHistorialP {
+      position:absolute;
+     
+      }
+
+    .FilaSecciónLab{
+      display: flex;
+      }
+
+
+
+    .BPanel {
+      color: white;
+      width: 75pt;
+      height: 45pt;
+      margin-top: 2px;
+      background: #000080;
+      border: none; 
+      text-align: center;
+      opacity: 0.7;
+      transition: 0.3s;
+      
+      }
+
+
+      .TituloPanel {
+        color: black;
+        text-align:right;
+        font-size: 35px;
+        font-weight: bold;
+        display: block;
+        position:relative;
+        
+        right: 350px;
+        }
+
+        .TablaPanelLabs {
+          display: block;
+          background-color: #e8fae6;
+          width: 380px;
+          height: 280px;
+          overflow-x: auto;
+          overflow-y: auto; 
+          position:relative;
+          top : 10vh;
+          right: 350px;
+          box-sizing: border-box;
+          border: none;
+          border-radius: 2px;
+          background-color: #dcdcdc;
+          }
+          .Panel {
+            padding: 35px;
+            display: visible;
+            background-color: rgb(107, 38, 38);
+            overflow: visible;
+            }
+      
+      
+          .logo {
+        
+        overflow: visible;
+        float: right;
+        bottom : top;
+        
+        position:absolute;
+        right:60px;
+        top: 10px;
+        width: 120px;
+        height: 100px;
+
+            }
+
+        .Titulo{
+          
+          font-family:serif;
+          display:scroll;
+
+        }
+
+        .niña{
+          
+         
+       
+          
+          border: 6px solid rgb(201, 93, 93);
+          height: 200px;
+          width: 200px;
+          align:right; 
+          position:absolute;
+          right:300px;
+          top:340px;
+          opacity: 0.8;
+
+        }
+
+
+        .asignaturas{
+          
+         
+       
+          
+          
+          height: 1500px;
+          width: 2000px;
+          align:right; 
+          position:absolute;
+          right:-700px;
+          top:150px;
+      
+          
+          
+
+        }
+
+        .laboratorios{
+          
+         
+       
+          
+          
+          height: 900px;
+          width: 1200px;
+          align:right; 
+          position:absolute;
+          right:-90px;
+          top:150px;
+      
+          
+          
+
+        }
+
+
+        .AppReservaPuestos{
+          
+         
+       
+          
+          
+          height: 1000px;
+          width: 900px;
+          align:right; 
+          position:absolute;
+          right:500px;
+          top:150px;
+          color: rgb(13, 8, 8);
+      
+          
+          
+
+        }
+
+
+        .volver{
+          
+         
+       
+          
+          
+          height: 50px;
+          width: 50px;
+          align:left;
+          left: -50px;
+         
+      
+          
+          
+
+        }
+
+        
+        .AccederLab{
+          
+         
+       
+          position: relative;
+          
+          height: 80px;
+          width: 370px;
+          align:left;
+          left: -230px;
+          top:-70px;
+         
+      
+          
+          
+
+        }
+
+
+
+        .tablaAsignaturas{
+          
+         
+          text-align:center; 
+      
+          left: 200px;
+          bottom: 300px;
+          color: rgb(86, 20, 20);
+          
+          font-weight: bold;
+          text-align: center;
+          height: 300px;
+          width: 900px;
+          opacity: 0.8;
+          border-collapse: separate;
+
+          background-color: rgb(179, 225, 236);
+          
+
+        }
+
+        .tablaAsignaturas th {
+          background-color: rgb(190, 147, 148); 
+        }
+
+        .tablaAsignaturas tr:nth-child(odd) {
+          background-color: rgb(244, 202, 202);
+        }
+        .tablaAsignaturas tr:nth-child(even) {
+          background-color: rgb(249, 234, 234);
+        }
+
+
+
+  
+        
+        .TablaAppMisReservas{
+          
+         
+          text-align:center; 
+          border: solid 2px rgb(155, 176, 192);
+      
+          left: 500px;
+          bottom: 300px;
+          color: rgb(86, 20, 20);
+          
+          font-weight: bold;
+          text-align: center;
+          height: 400px;
+          width: 875px;
+          opacity: 0.8;
+          border-collapse: separate;
+
+          background-color: rgb(179, 225, 236);
+          
+
+        }
+
+        .AppMisReservas{
+          position:absolute;
+
+          left:700px;
+          top:-10px;
+
+
+        }
+
+      
+
+
+
+        .tablaAsignaturasdiv{
+          overflow-y:scroll;
+          height: 500px;
+          border: solid 2px rgb(155, 176, 192);
+          
+          white-space: pre-line;
+          text-overflow: ellipsis;
+          
+         }
+
+         .tablausuariosdiv{
+          overflow-y:scroll;
+          height: 300px;
+          border: solid 2px rgb(155, 176, 192);
+          
+          white-space: pre-line;
+          text-overflow: ellipsis;
+          
+         }
+
+
+        .tablaLaboratorios{
+          
+         
+          text-align:left; 
+      
+          left: -10px;
+          bottom: 300px;
+          color: rgb(191, 53, 53);
+          
+          font-weight: bold;
+          text-align: left;
+          height: 400px;
+          width: 700px;
+          opacity: 0.8;
+          
+
+        }
+
+
+        .clicar{
+          
+          height: 140px;
+          width: 140px;
+         float: center;
+         
+
+        }
+
+
+        
+        .señalar{
+          
+         
+       
+          
+          
+          height: 100px;
+          width: 100px;
+          align:left; 
+          position:absolute;
+          left:420px;
+          bottom: 150px;
+
+        }
+
+
+        .escaleras{
+          height: 100%;
+          width: 100%;
+          position:absolute;
+          left:158px;
+          opacity: 0.4;
+          top:95px;
+
+        }
+
+
+        .top{
+          height: 835px;
+          width: 1750px;
+          position:absolute;
+          left:00px;
+          opacity: 1;
+          top:-46px;
+          background-position: 0;
+
+        }
+
+        .bombilla{
+          height: 835px;
+          width: 1750px;
+          position:absolute;
+          left:300px;
+          opacity: 1;
+          top:-46px;
+
+        }
+
+
+        .imgfondo{
+          height: 880px;
+          width: 1760px;
+          position:absolute;
+          left:162px;
+          opacity: 0.15;
+          top:-5px;
+
+        }
+
+
+        .fondoAzulAP{
+          height: 650px;
+          width: 1200px;
+          position:absolute;
+          left:-150px;
+          opacity: 0.35;
+          top:-50px;
+
+        }
+        .fondoAzulAsig{
+          height: 500px;
+          width: 900px;
+          position:absolute;
+          left:-20px;
+          opacity: 0.35;
+          top:10px;
+
+        }
+
+        .fondoAzulLab{
+          height: 720px;
+          width: 480px;
+          position:absolute;
+          left:-330px;
+          opacity: 0.35;
+          top:-70px;
+
+        }
+
+        .fondoAzulMisCosas{
+          height: 600px;
+          width: 440px;
+          position:absolute;
+          left:-320px;
+          opacity: 0.35;
+          top:-230px;
+
+        }
+
+
+
+        .contenedor {
+          position: relative;
+         
+          left: 150px;
+          top:-80px;
+          background-position:0º;
+          
+          
+
+          
+        }
+
+      
+        
+        .contenedor img {
+          position: absolute;
+          left: 0;
+          height: 883px;
+          width: 1900px;
+          transition: opacity 1.5s ease-in-out;
+        }
+        
+        .contenedor img.top:hover {
+          opacity: 0;
+        }
+        
+
+        .consulta{
+          
+         
+          text-align:left; 
+          font-size: small;
+          position:absolute;
+          left: 300px;
+          bottom: 450px;
+          color: rgb(127, 50, 50);
+          font-size: 20px;
+          font-weight: bold;
+          text-align: left;
+          height: 180px;
+          width: 1066px;
+          opacity: 0.8;
+          
+
+        }
+        
+        .calendar{
+          align:left;
+          position:absolute;
+
+          left: 320px;
+          bottom: 270px;
+          font-size: 20px;
+          
+         
+          
+
+        }
+
+
+       
+
+       .Tabla{
+        overflow:scroll;
+       }
+
+       .TablaReservarPuestos{
+
+        overflow:scroll;
+        width: 900px;
+        height: 300px;
+        font-size: 22px;
+        border: solid 2px rgb(155, 176, 192);
+          
+          white-space: pre-line;
+          text-overflow: ellipsis;
+          opacity: 0.8;
+          border-collapse: separate;
+
+          background-color: rgb(179, 225, 236);
+       }
+
+       
+       .TablaReservarPuestos th {
+        background-color: rgb(221, 227, 230); 
+      }
+
+      .TablaReservarPuestos tr:nth-child(odd) {
+        background-color: rgb(186, 210, 218);
+      }
+      .TablaReservarPuestos tr:nth-child(even) {
+        background-color: rgb(218, 237, 241);
+      }
+
+
+       .TablaReservar{
+
+        overflow-y:scroll;
+        width: 930px;
+        height: 500px;
+       }
+          
+                    
+        
+          
+        
+
+      
+
+    
+          
+        .reservaLibre{
+
+          width: 60px;
+          height: 25px;
+         
+        
+        
+         
+
+
+        } 
+
+
+        .noReserva{
+
+          width: 60px;
+          height: 25px;
+
+
+        } 
+
+             
+        .reloj{
+
+          width: 50px;
+          height: 25px;
+
+
+        } 
+
+
+
+        .pure-button{
+          color: rgb(38, 107, 76);
+
+        }
+
+
+        .Home{	
+          width: 90px;
+          height: 55px;
+          
+          }
+          .Telefono{	
+            width: 25px;
+            height: 25px;
+           
+
+            }
+
+
+         
+
+          .Presentacion {
+            
+            color:   rgb(11, 111, 173);
+            left:740px;
+            font-size: 60px;
+            position:absolute;
+            top:440px;
+            background: #202020; 
+            -webkit-background-clip: text; 
+            -moz-background-clip: text; 
+            background-clip: text; 
+            color: transparent; 
+            text-shadow: 0px 3px 3px rgba(255,255,255,0.4),0px -1px 1px rgba(8, 48, 63, 0.3);
+                        
+            }
+
+
+            .TituloHome {
+            
+              color: rgb(22, 10, 10);
+              font-size: large;
+              
+            
+  
+                  
+             
+              
+              }
+          
+                 
+                 
+
+                
+
+          
+
+              
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
